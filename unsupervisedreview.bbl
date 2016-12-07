@@ -1,0 +1,1059 @@
+\begin{thebibliography}{100}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{energy_information_administration_how_2015}
+{Energy Information Administration},
+  \href{http://www.eia.gov/tools/faqs/faq.cfm?id=108&t=3}{How many smart meters
+  are installed in the {United} {States}, and who has them?} (May 2015).
+\newline\urlprefix\url{http://www.eia.gov/tools/faqs/faq.cfm?id=108&t=3}
+
+\bibitem{james_manyika_unlocking_2015}
+{James Manyika}, {Michael Chui}, {Peter Bisson}, {Jonathan Woetzel}, {Richard
+  Dobbs}, {Jacques Bughin}, {Dan Aharon},
+  \href{http://www.mckinsey.com/insights/business_technology/The_Internet_of_Things_The_value_of_digitizing_the_physical_world}{Unlocking
+  the potential of the {Internet} of {Things} {\textbar} {McKinsey} \&
+  {Company}}.
+\newline\urlprefix\url{http://www.mckinsey.com/insights/business_technology/The_Internet_of_Things_The_value_of_digitizing_the_physical_world}
+
+\bibitem{the_white_house_fact_2016}
+{The White House},
+  \href{https://www.whitehouse.gov/the-press-office/2016/01/29/fact-sheet-cities-utilities-and-businesses-commit-unlocking-access}{{FACT}
+  {SHEET}: {Cities}, {Utilities}, and {Businesses} {Commit} to {Unlocking}
+  {Access} to {Energy} {Data} for {Building} {Owners} and {Improving} {Energy}
+  {Efficiency}}.
+\newline\urlprefix\url{https://www.whitehouse.gov/the-press-office/2016/01/29/fact-sheet-cities-utilities-and-businesses-commit-unlocking-access}
+
+\bibitem{ruparathna_improving_2016}
+R.~Ruparathna, K.~Hewage, R.~Sadiq,
+  \href{http://www.sciencedirect.com/science/article/pii/S1364032115010540}{Improving
+  the energy efficiency of the existing building stock: {A} critical review of
+  commercial and institutional buildings}, Renewable and Sustainable Energy
+  Reviews 53 (2016) 1032--1045.
+\newblock \href {http://dx.doi.org/10.1016/j.rser.2015.09.084}
+  {\path{doi:10.1016/j.rser.2015.09.084}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S1364032115010540}
+
+\bibitem{krarti_overview_2003}
+M.~Krarti,
+  \href{http://SolarEnergyEngineering.asmedigitalcollection.asme.org/article.aspx?articleid=1456822}{An
+  {Overview} of {Artificial} {Intelligence}-{Based} {Methods} for {Building}
+  {Energy} {Systems}}, Journal of Solar Energy Engineering 125~(3) (2003) 331.
+\newblock \href {http://dx.doi.org/10.1115/1.1592186}
+  {\path{doi:10.1115/1.1592186}}.
+\newline\urlprefix\url{http://SolarEnergyEngineering.asmedigitalcollection.asme.org/article.aspx?articleid=1456822}
+
+\bibitem{dounis_artificial_2010}
+A.~I. Dounis,
+  \href{http://www.tandfonline.com/doi/abs/10.3763/aber.2009.0408}{Artificial
+  intelligence for energy conservation in buildings}, Advances in Building
+  Energy Research 4~(1) (2010) 267--299.
+\newblock \href {http://dx.doi.org/10.3763/aber.2009.0408}
+  {\path{doi:10.3763/aber.2009.0408}}.
+\newline\urlprefix\url{http://www.tandfonline.com/doi/abs/10.3763/aber.2009.0408}
+
+\bibitem{reddy_applied_2011}
+T.~A. Reddy,
+  \href{https://books.google.com/books?hl=en&lr=&id=UkWvWDFiDf4C&oi=fnd&pg=PR9&dq=+%22Applied+data+analysis+and+modeling+for+energy+engineers+and+scientists%22+T+Agami+Reddy&ots=tEUJEuedXl&sig=e41JNtpT78gpFI64XB6sNt_hQF4}{Applied
+  data analysis and modeling for energy engineers and scientists}, Springer
+  Science \& Business Media, 2011.
+\newline\urlprefix\url{https://books.google.com/books?hl=en&lr=&id=UkWvWDFiDf4C&oi=fnd&pg=PR9&dq=+%22Applied+data+analysis+and+modeling+for+energy+engineers+and+scientists%22+T+Agami+Reddy&ots=tEUJEuedXl&sig=e41JNtpT78gpFI64XB6sNt_hQF4}
+
+\bibitem{lee_energy_2015}
+S.~H. Lee, T.~Hong, M.~A. Piette, S.~C. Taylor-Lange,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360544215008683}{Energy
+  retrofit analysis toolkits for commercial buildings: {A} review}, Energy\href
+  {http://dx.doi.org/10.1016/j.energy.2015.06.112}
+  {\path{doi:10.1016/j.energy.2015.06.112}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360544215008683}
+
+\bibitem{ioannidis_big_2015}
+D.~Ioannidis, A.~Fotiadou, S.~Krinidis, G.~Stavropoulos, D.~Tzovaras,
+  S.~Likothanassis,
+  \href{http://link.springer.com/chapter/10.1007/978-3-319-23868-5_30}{Big
+  {Data} and {Visual} {Analytics} for {Building} {Performance} {Comparison}},
+  in: R.~Chbeir, Y.~Manolopoulos, I.~Maglogiannis, R.~Alhajj (Eds.), Artificial
+  {Intelligence} {Applications} and {Innovations}, no. 458 in {IFIP} {Advances}
+  in {Information} and {Communication} {Technology}, Springer International
+  Publishing, 2015, pp. 421--430, dOI: 10.1007/978-3-319-23868-5\_30.
+\newline\urlprefix\url{http://link.springer.com/chapter/10.1007/978-3-319-23868-5_30}
+
+\bibitem{morais_overview_2009}
+J.~Morais, Y.~Pires, C.~Cardoso, A.~Klautau,
+  \href{http://www.intechopen.com/source/pdfs/5962/InTech-An_overview_of_data_mining_techniques_applied_to_power_systems.pdf}{An
+  {Overview} of {Data} {Mining} {Techniques} {Applied} to {Power} {Systems}},
+  Data Mining and Knowledge Discovery in Real Life Applications.
+\newline\urlprefix\url{http://www.intechopen.com/source/pdfs/5962/InTech-An_overview_of_data_mining_techniques_applied_to_power_systems.pdf}
+
+\bibitem{chicco_overview_2012}
+G.~Chicco, \href{http://dx.doi.org/10.1016/j.energy.2011.12.031}{Overview and
+  performance assessment of the clustering methods for electrical load pattern
+  grouping}, Energy 42~(1) (2012) 68--80.
+\newblock \href {http://dx.doi.org/10.1016/j.energy.2011.12.031}
+  {\path{doi:10.1016/j.energy.2011.12.031}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.energy.2011.12.031}
+
+\bibitem{zhou_review_2013}
+K.-l. Zhou, S.-l. Yang, C.~Shen,
+  \href{http://dx.doi.org/10.1016/j.rser.2013.03.023}{A review of electric load
+  classification in smart grid environment}, Renewable and Sustainable Energy
+  Reviews 24~(C) (2013) 103--110.
+\newblock \href {http://dx.doi.org/10.1016/j.rser.2013.03.023}
+  {\path{doi:10.1016/j.rser.2013.03.023}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.rser.2013.03.023}
+
+\bibitem{james_introduction_2013}
+G.~James, D.~Witten, T.~Hastie, R.~Tibshirani,
+  \href{http://link.springer.com/content/pdf/10.1007/978-1-4614-7138-7.pdf}{An
+  introduction to statistical learning}, Vol. 112, Springer, 2013.
+\newline\urlprefix\url{http://link.springer.com/content/pdf/10.1007/978-1-4614-7138-7.pdf}
+
+\bibitem{hastie_elements_2009}
+T.~Hastie, R.~Tibshirani, J.~H. Friedman,
+  \href{http://link.springer.com/article/10.1007%2FBF02985802}{The elements of
+  statistical learning: data mining, inference, and prediction}, 2nd Edition,
+  Springer series in statistics, Springer, New York, NY, 2009.
+\newline\urlprefix\url{http://link.springer.com/article/10.1007%2FBF02985802}
+
+\bibitem{mirkin_clustering:_2012}
+B.~Mirkin,
+  \href{https://books.google.com.sg/books?hl=en&lr=&id=34-q8geA3yEC&oi=fnd&pg=PP1&dq=clustering+a+data+recovery&ots=XEGQGoSOZY&sig=lq2rKFBq1bpGKQM8gdYS9xI8hrc}{Clustering:
+  a data recovery approach}, CRC Press, 2012.
+\newline\urlprefix\url{https://books.google.com.sg/books?hl=en&lr=&id=34-q8geA3yEC&oi=fnd&pg=PP1&dq=clustering+a+data+recovery&ots=XEGQGoSOZY&sig=lq2rKFBq1bpGKQM8gdYS9xI8hrc}
+
+\bibitem{miller_forensically_2015}
+C.~Miller, A.~Schlueter,
+  \href{http://dx.doi.org/10.13140/RG.2.1.2286.0964}{Forensically discovering
+  simulation feedback knowledge from a campus energy information system}, in:
+  Proceedings of the 2015 {Symposium} on {Simulation} for {Architecture} and
+  {Urban} {Design} ({SimAUD} 2015), SCS, Washington DC, USA, 2015, pp. 33--40.
+\newblock \href {http://dx.doi.org/10.13140/RG.2.1.2286.0964}
+  {\path{doi:10.13140/RG.2.1.2286.0964}}.
+\newline\urlprefix\url{http://dx.doi.org/10.13140/RG.2.1.2286.0964}
+
+\bibitem{chandola_anomaly_2009}
+V.~Chandola, A.~Banerjee, V.~Kumar,
+  \href{http://dl.acm.org/citation.cfm?id=1541882}{Anomaly detection: {A}
+  survey}, ACM computing surveys (CSUR) 41~(3) (2009) 15.
+\newline\urlprefix\url{http://dl.acm.org/citation.cfm?id=1541882}
+
+\bibitem{senin_grammarviz_2014}
+P.~Senin, J.~Lin, X.~Wang, T.~Oates, S.~Gandhi, A.~P. Boedihardjo, C.~Chen,
+  S.~Frankenstein, M.~Lerner,
+  \href{http://link.springer.com/chapter/10.1007/978-3-662-44845-8_37}{{GrammarViz}
+  2.0: a tool for grammar-based pattern discovery in time series}, Springer,
+  2014.
+\newline\urlprefix\url{http://link.springer.com/chapter/10.1007/978-3-662-44845-8_37}
+
+\bibitem{miller_automated_2015}
+C.~Miller, Z.~Nagy, A.~Schlueter,
+  \href{http://www.sciencedirect.com/science/article/pii/S0926580514002015}{Automated
+  daily pattern filtering of measured building performance data}, Automation in
+  Construction 49, Part A (2015) 1--17.
+\newblock \href {http://dx.doi.org/10.1016/j.autcon.2014.09.004}
+  {\path{doi:10.1016/j.autcon.2014.09.004}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0926580514002015}
+
+\bibitem{keim_visual_2008}
+D.~Keim, G.~Andrienko, J.-D. Fekete, C.~Görg, J.~Kohlhammer, G.~Melançon,
+  \href{http://link.springer.com/chapter/10.1007/978-3-540-70956-5_7}{Visual
+  {Analytics}: {Definition}, {Process}, and {Challenges}}, in: A.~Kerren, J.~T.
+  Stasko, J.-D. Fekete, C.~North (Eds.), Information {Visualization}, no. 4950
+  in Lecture {Notes} in {Computer} {Science}, Springer Berlin Heidelberg, 2008,
+  pp. 154--175, dOI: 10.1007/978-3-540-70956-5\_7.
+\newline\urlprefix\url{http://link.springer.com/chapter/10.1007/978-3-540-70956-5_7}
+
+\bibitem{shneiderman_eyes_1996}
+B.~Shneiderman, The eyes have it: a task by data type taxonomy for information
+  visualizations, in: , {IEEE} {Symposium} on {Visual} {Languages}, 1996.
+  {Proceedings}, 1996, pp. 336--343.
+\newblock \href {http://dx.doi.org/10.1109/VL.1996.545307}
+  {\path{doi:10.1109/VL.1996.545307}}.
+
+\bibitem{duda_pattern_2012}
+R.~O. Duda, P.~E. Hart, D.~G. Stork,
+  \href{https://books.google.com.sg/books?hl=en&lr=&id=Br33IRC3PkQC&oi=fnd&pg=PR3&dq=pattern+classification+duda&ots=2wCPIsgbDs&sig=Uq-PAZRxsyIu0Icp7zxDThyV_oU}{Pattern
+  classification}, John Wiley \& Sons, 2012.
+\newline\urlprefix\url{https://books.google.com.sg/books?hl=en&lr=&id=Br33IRC3PkQC&oi=fnd&pg=PR3&dq=pattern+classification+duda&ots=2wCPIsgbDs&sig=Uq-PAZRxsyIu0Icp7zxDThyV_oU}
+
+\bibitem{jang_variability_2016}
+D.~Jang, J.~Eom, M.~Jae~Park, J.~Jeung~Rho,
+  \href{http://www.sciencedirect.com/science/article/pii/S0301421515301154}{Variability
+  of electricity load patterns and its effect on demand response: {A} critical
+  peak pricing experiment on {Korean} commercial and industrial customers},
+  Energy Policy 88 (2016) 11--26.
+\newblock \href {http://dx.doi.org/10.1016/j.enpol.2015.09.029}
+  {\path{doi:10.1016/j.enpol.2015.09.029}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0301421515301154}
+
+\bibitem{shahzadeh_improving_2015}
+A.~Shahzadeh, A.~Khosravi, S.~Nahavandi, Improving load forecast accuracy by
+  clustering consumers using smart meter data, in: Proceedings of the 2015
+  {International} {Joint} {Conference} on {Neural} {Networks} ({IJCNN}),
+  Killarney, Ireland, 2015, pp. 1--7.
+\newblock \href {http://dx.doi.org/10.1109/IJCNN.2015.7280393}
+  {\path{doi:10.1109/IJCNN.2015.7280393}}.
+
+\bibitem{liu_smas:_2015}
+X.~Liu, L.~Golab, I.~Ilyas, {SMAS}: {A} smart meter data analytics system, in:
+  Proceedings of the 2015 {IEEE} 31st {International} {Conference} on {Data}
+  {Engineering} ({ICDE}), Seoul, South Korea, 2015, pp. 1476--1479.
+\newblock \href {http://dx.doi.org/10.1109/ICDE.2015.7113405}
+  {\path{doi:10.1109/ICDE.2015.7113405}}.
+
+\bibitem{pan_kernel-based_2015}
+E.~Pan, H.~Li, L.~Song, Z.~Han, Kernel-based non-parametric clustering for load
+  profiling of big smart meter data, in: Proceedings of the 2015 {IEEE}
+  {Wireless} {Communications} and {Networking} {Conference} ({WCNC}), 2015, pp.
+  2251--2255.
+\newblock \href {http://dx.doi.org/10.1109/WCNC.2015.7127817}
+  {\path{doi:10.1109/WCNC.2015.7127817}}.
+
+\bibitem{panapakidis_evaluation_2015}
+I.~Panapakidis, M.~Alexiadis, G.~Papagiannis,
+  \href{http://dx.doi.org/10.1016/j.engappai.2014.10.013}{Evaluation of the
+  performance of clustering algorithms for a high voltage industrial consumer},
+  Engineering Applications of Artificial Intelligence 38~(C) (2015) 1--13.
+\newblock \href {http://dx.doi.org/10.1016/j.engappai.2014.10.013}
+  {\path{doi:10.1016/j.engappai.2014.10.013}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.engappai.2014.10.013}
+
+\bibitem{fagiani_novelty_2015}
+M.~Fagiani, S.~Squartini, M.~Severini, F.~Piazza, A novelty detection approach
+  to identify the occurrence of leakage in smart gas and water grids, in:
+  Proceedings of the 2015 {International} {Joint} {Conference} on {Neural}
+  {Networks} ({IJCNN}), Killarney, Ireland, 2015, pp. 1--8.
+\newblock \href {http://dx.doi.org/10.1109/IJCNN.2015.7280473}
+  {\path{doi:10.1109/IJCNN.2015.7280473}}.
+
+\bibitem{reinhardt_powersax:_2014}
+A.~Reinhardt, S.~Koessler,
+  \href{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6927699}{{PowerSAX}:
+  {Fast} motif matching in distributed power meter data using symbolic
+  representations}, in: Proceedings of 9th {IEEE} {International} {Workshop} on
+  {Practical} {Issues} in {Building} {Sensor} {Network} {Applications}
+  ({SenseApp} 2014), IEEE, Edmonton, Canada, 2014, pp. 531--538.
+\newblock \href {http://dx.doi.org/10.1109/LCNW.2014.6927699}
+  {\path{doi:10.1109/LCNW.2014.6927699}}.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6927699}
+
+\bibitem{lavin_clustering_2014}
+A.~Lavin, D.~Klabjan,
+  \href{http://link.springer.com/article/10.1007/s12053-014-9316-0}{Clustering
+  time-series energy data from smart meters}, Energy Efficiency 8~(4) (2014)
+  681--689.
+\newblock \href {http://dx.doi.org/10.1007/s12053-014-9316-0}
+  {\path{doi:10.1007/s12053-014-9316-0}}.
+\newline\urlprefix\url{http://link.springer.com/article/10.1007/s12053-014-9316-0}
+
+\bibitem{green_divide_2014}
+R.~Green, I.~Staffell, N.~Vasilakos, Divide and {Conquer} {K}-{Means}
+  {Clustering} of {Demand} {Data} {Allows} {Rapid} and {Accurate} {Simulations}
+  of the {British} {Electricity} {System}, IEEE Transactions on Engineering
+  Management 61~(2) (2014) 251--260.
+\newblock \href {http://dx.doi.org/10.1109/TEM.2013.2284386}
+  {\path{doi:10.1109/TEM.2013.2284386}}.
+
+\bibitem{jarrah_nezhad_smartd:_2014}
+A.~Jarrah~Nezhad, T.~K. Wijaya, M.~Vasirani, K.~Aberer,
+  \href{http://doi.acm.org/10.1145/2602044.2602046}{{SmartD}: {Smart} {Meter}
+  {Data} {Analytics} {Dashboard}}, in: Proceedings of the 5th {International}
+  {Conference} on {Future} {Energy} {Systems} (e-{Energy} '14), e-{Energy} '14,
+  ACM, New York, NY, USA, 2014, pp. 213--214.
+\newblock \href {http://dx.doi.org/10.1145/2602044.2602046}
+  {\path{doi:10.1145/2602044.2602046}}.
+\newline\urlprefix\url{http://doi.acm.org/10.1145/2602044.2602046}
+
+\bibitem{cakmak_new_2014}
+H.~K. Çakmak, H.~Maa{\textbackslash}s~s, F.~Bach, U.~G. Kühnapfel,
+  \href{http://www.researchgate.net/profile/Hueseyin_Cakmak2/publication/264579714_A_New_Framework_for_the_Analysis_of_Large_Scale_Multi-Rate_Power_Data/links/53e8b9820cf25d674ea8552d.pdf}{A
+  new framework for the analysis of large scale multi-rate power data},
+  Karlsruhe Institute of Technology, 2014.
+\newline\urlprefix\url{http://www.researchgate.net/profile/Hueseyin_Cakmak2/publication/264579714_A_New_Framework_for_the_Analysis_of_Large_Scale_Multi-Rate_Power_Data/links/53e8b9820cf25d674ea8552d.pdf}
+
+\bibitem{shao_temporal_2013}
+H.~Shao, M.~Marwah, N.~Ramakrishnan,
+  \href{http://people.cs.vt.edu/~naren/papers/temp-motif-aaai13.pdf}{A
+  {Temporal} {Motif} {Mining} {Approach} to {Unsupervised} {Energy}
+  {Disaggregation}: {Applications} to {Residential} and {Commercial}
+  {Buildings}}, in: Proceedings of the {Twenty}-{Seventh} {AAAI} {Conference}
+  on {Artificial} {Intelligence} ({AAAI} 2013), Vol. 250, Bellevue, WA, USA,
+  2013, p. 2250.
+\newline\urlprefix\url{http://people.cs.vt.edu/~naren/papers/temp-motif-aaai13.pdf}
+
+\bibitem{chicco_electrical_2013}
+G.~Chicco, O.-M. Ionel, R.~Porumb,
+  \href{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6331025}{Electrical
+  {Load} {Pattern} {Grouping} {Based} on {Centroid} {Model} {With} {Ant}
+  {Colony} {Clustering}}, IEEE Transactions on Power Systems 28~(2) (2013)
+  1706--1715.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6331025}
+
+\bibitem{borgeson_targeted_2013}
+S.~Borgeson,
+  \href{https://www.dropbox.com/s/ppi9az3z97mxx3u/Borgeson_dissertation.pdf}{Targeted
+  {Efficiency}: {Using} {Customer} {Meter} {Data} to {Improve} {Efficiency}
+  {Program} {Outcomes}}, {PhD}, University of California, Berkeley, Berkeley,
+  CA, USA (2013).
+\newline\urlprefix\url{https://www.dropbox.com/s/ppi9az3z97mxx3u/Borgeson_dissertation.pdf}
+
+\bibitem{iglesias_analysis_2013}
+F.~Iglesias, W.~Kastner, \href{http://www.mdpi.com/1996-1073/6/2/579/}{Analysis
+  of {Similarity} {Measures} in {Times} {Series} {Clustering} for the
+  {Discovery} of {Building} {Energy} {Patterns}}, Energies 6~(2) (2013)
+  579--597.
+\newblock \href {http://dx.doi.org/10.3390/en6020579}
+  {\path{doi:10.3390/en6020579}}.
+\newline\urlprefix\url{http://www.mdpi.com/1996-1073/6/2/579/}
+
+\bibitem{ramos_typical_2012}
+S.~Ramos, J.~Duarte, J.~Soares, Z.~Vale, F.~J. Duarte,
+  \href{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6345565}{Typical
+  load profiles in the smart grid context—{A} clustering methods comparison},
+  in: Proceedings of the {Power} and {Energy} {Society} {General} {Meeting},
+  2012 {IEEE}, IEEE, San Diego, CA, USA, 2012, pp. 1--8.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6345565}
+
+\bibitem{florita_classification_2012}
+A.~R. Florita, L.~J. Brackney, T.~P. Otanicar, J.~Robertson,
+  \href{http://solarenergyengineering.asmedigitalcollection.asme.org/article.aspx?articleid=1697039}{Classification
+  of {Commerical} {Building} {Electrical} {Demand} {Profiles} for {Energy}
+  {Storage} {Applications}}, in: Proceedings of {ASME} 2012 6th {International}
+  {Conference} on {Energy} {Sustainability} \& 10th {Fuel} {Cell} {Science},
+  {Engineering} and {Technology} {Conference} ({ESFuelCell}2012), San Diego,
+  CA, USA, 2012.
+\newline\urlprefix\url{http://solarenergyengineering.asmedigitalcollection.asme.org/article.aspx?articleid=1697039}
+
+\bibitem{de_silva_data_2011}
+D.~De~Silva, X.~Yu, D.~Alahakoon, G.~Holmes,
+  \href{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5893960}{A
+  {Data} {Mining} {Framework} for {Electricity} {Consumption} {Analysis} {From}
+  {Meter} {Data}}, IEEE Transactions on Industrial Informatics 7~(3) (2011)
+  399--407.
+\newblock \href {http://dx.doi.org/10.1109/TII.2011.2158844}
+  {\path{doi:10.1109/TII.2011.2158844}}.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=5893960}
+
+\bibitem{bidoki_evaluating_2010}
+S.~M. Bidoki, N.~Mahmoudi-Kohan, M.~H. Sadreddini, M.~Zolghadri~Jahromi, M.~P.
+  Moghaddam,
+  \href{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5484234}{Evaluating
+  different clustering techniques for electricity customer classification}, in:
+  Transmission and {Distribution} {Conference} and {Exposition}, 2010 {IEEE}
+  {PES}, IEEE, New Orleans, LA, USA, 2010, pp. 1--5.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5484234}
+
+\bibitem{gullo_low-voltage_2009}
+F.~Gullo, G.~Ponti, A.~Tagarelli, M.~Ruffolo, D.~Labate,
+  \href{http://dl.acm.org/citation.cfm?id=1620472}{Low-voltage electricity
+  customer profiling based on load data clustering}, in: Proceedings of the
+  2009 {International} {Database} {Engineering} \& {Applications} {Symposium}
+  ({IDEAS} 2009), ACM, Calabria, Italy, 2009, pp. 330--333.
+\newline\urlprefix\url{http://dl.acm.org/citation.cfm?id=1620472}
+
+\bibitem{rasanen_feature-based_2009}
+T.~Räsänen, M.~Kolehmainen,
+  \href{http://link.springer.com/chapter/10.1007/978-3-642-04921-7_41}{Feature-based
+  clustering for electricity use time series data}, in: Adaptive and {Natural}
+  {Computing} {Algorithms}: 9th {International} {Conference}, {ICANNGA} 2009,
+  Springer, Kuopio, Finland, 2009, pp. 401--412.
+\newline\urlprefix\url{http://link.springer.com/chapter/10.1007/978-3-642-04921-7_41}
+
+\bibitem{chicco_support_2009}
+G.~Chicco, I.~S. Ilie,
+  \href{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5072232}{Support
+  vector clustering of electrical load pattern data}, IEEE Transactions on
+  Power Systems 24~(3) (2009) 1619--1628.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5072232}
+
+\bibitem{vale_data_2009}
+Z.~A. Vale, C.~Ramos, S.~Ramos, T.~Pinto,
+  \href{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5356830}{Data
+  mining applications in power systems—{Case}-studies and future trends}, in:
+  {IEEE} {Transmission} \& {Distribution} {Conference} \& {Exposition}: {Asia}
+  and {Pacific}, 2009, IEEE, Seoul, South Korea, 2009, pp. 1--4.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5356830}
+
+\bibitem{rasanen_reducing_2008}
+T.~Räsänen, J.~Ruuskanen, M.~Kolehmainen,
+  \href{http://www.sciencedirect.com/science/article/pii/S030626190800007X}{Reducing
+  energy consumption by using self-organizing maps to create more personalized
+  electricity use information}, Applied Energy 85~(9) (2008) 830--840.
+\newblock \href {http://dx.doi.org/10.1016/j.apenergy.2007.10.012}
+  {\path{doi:10.1016/j.apenergy.2007.10.012}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S030626190800007X}
+
+\bibitem{verdu_classification_2006}
+S.~V. Verdu, M.~O. Garcia, C.~Senabre, A.~G. Marin, F.~J.~G. Franco,
+  \href{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1717570}{Classification,
+  {Filtering}, and {Identification} of {Electrical} {Customer} {Load}
+  {Patterns} {Through} the {Use} of {Self}-{Organizing} {Maps}}, IEEE
+  Transactions on Power Systems 21~(4) (2006) 1672--1682.
+\newblock \href {http://dx.doi.org/10.1109/TPWRS.2006.881133}
+  {\path{doi:10.1109/TPWRS.2006.881133}}.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1717570}
+
+\bibitem{figueiredo_electric_2005}
+V.~Figueiredo, F.~Rodrigues, Z.~Vale, J.~B. Gouveia,
+  \href{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1425550}{An
+  {Electric} {Energy} {Consumer} {Characterization} {Framework} {Based} on
+  {Data} {Mining} {Techniques}}, IEEE Transactions on Power Systems 20~(2)
+  (2005) 596--602.
+\newblock \href {http://dx.doi.org/10.1109/TPWRS.2005.846234}
+  {\path{doi:10.1109/TPWRS.2005.846234}}.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=1425550}
+
+\bibitem{schlueter_analysis_2016}
+A.~Schlueter, P.~Geyer, S.~Cisar, Analysis of {Georeferenced} {Building} {Data}
+  for the {Identification} and {Evaluation} of {Thermal} {Microgrids},
+  Proceedings of the IEEE 104~(4) (2016) 713--725.
+\newblock \href {http://dx.doi.org/10.1109/JPROC.2016.2526118}
+  {\path{doi:10.1109/JPROC.2016.2526118}}.
+
+\bibitem{geyer_application_2016}
+P.~Geyer, A.~Schlüter, S.~Cisar,
+  \href{http://www.sciencedirect.com/science/article/pii/S1474034616300167}{Application
+  of clustering for the development of retrofit strategies for large building
+  stocks}, Advanced Engineering Informatics.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S1474034616300167}
+
+\bibitem{yarbrough_visualizing_2015}
+I.~Yarbrough, Q.~Sun, D.~C. Reeves, K.~Hackman, R.~Bennett, D.~S. Henshel,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778814010081}{Visualizing
+  building energy demand for building peak energy analysis}, Energy and
+  Buildings 91 (2015) 10--15.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2014.11.052}
+  {\path{doi:10.1016/j.enbuild.2014.11.052}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778814010081}
+
+\bibitem{diong_establishing_2015}
+B.~Diong, G.~Zheng, M.~Ginn, Establishing the foundation for energy management
+  on university campuses via data analytics, in: Proceedings of the {IEEE}
+  {SoutheastCon} 2015, Fort Lauderdale, FL, USA, 2015, pp. 1--7.
+\newblock \href {http://dx.doi.org/10.1109/SECON.2015.7132996}
+  {\path{doi:10.1109/SECON.2015.7132996}}.
+
+\bibitem{pieri_identifying_2015}
+S.~P. Pieri, {IoannisTzouvadakis}, M.~Santamouris,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778815001127}{Identifying
+  energy consumption patterns in the {Attica} hotel sector using cluster
+  analysis techniques with the aim of reducing hotels’ {CO}2 footprint},
+  Energy and Buildings 94 (2015) 252--262.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2015.02.017}
+  {\path{doi:10.1016/j.enbuild.2015.02.017}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778815001127}
+
+\bibitem{ploennigs_e2-diagnoser:_2014}
+J.~Ploennigs, B.~Chen, P.~Palmes, R.~Lloyd,
+  \href{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=7022741}{e2-{Diagnoser}:
+  {A} {System} for {Monitoring}, {Forecasting} and {Diagnosing} {Energy}
+  {Usage}}, in: Data {Mining} {Workshop} ({ICDMW}), 2014 {IEEE} {International}
+  {Conference} on, IEEE, Shenzhen, China, 2014, pp. 1231--1234.
+\newblock \href {http://dx.doi.org/10.1109/ICDMW.2014.56}
+  {\path{doi:10.1109/ICDMW.2014.56}}.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=7022741}
+
+\bibitem{georgescu_site-level_2014}
+M.~Georgescu, I.~Mezic,
+  \href{https://www.ashrae.net/File%20Library/docLib/Events/ASHRAE-IPBSA-USA/Presentations/32_Georgescu.pdf}{Site-{Level}
+  {Energy} {Monitoring} and {Analysis} using {Koopman} {Operator} {Methods}},
+  in: Proceedings of the 2014 {ASHRAE}/{IBPSA}-{USA} {Building} {Simulation}
+  {Conference} ({SimBuild} 2014), ASHRAE/IBPSA, Atlanta, GA, USA, 2014.
+\newline\urlprefix\url{https://www.ashrae.net/File%20Library/docLib/Events/ASHRAE-IPBSA-USA/Presentations/32_Georgescu.pdf}
+
+\bibitem{heidarinejad_cluster_2014}
+M.~Heidarinejad, M.~Dahlhausen, S.~McMahon, C.~Pyke, J.~Srebric,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0378778814007087}{Cluster
+  analysis of simulated energy use for {LEED} certified {U}.{S}. office
+  buildings}, Energy and Buildings 85 (2014) 86--97.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2014.09.017}
+  {\path{doi:10.1016/j.enbuild.2014.09.017}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0378778814007087}
+
+\bibitem{moran_analysis_2013}
+A.~Morán, J.~J. Fuertes, M.~Domínguez, M.~A. Prada, S.~Alonso, P.~Barrientos,
+  \href{http://link.springer.com/10.1007/s00521-013-1409-8}{Analysis of
+  electricity bills using visual continuous maps}, Neural Computing and
+  Applications 23~(3-4) (2013) 645--655.
+\newblock \href {http://dx.doi.org/10.1007/s00521-013-1409-8}
+  {\path{doi:10.1007/s00521-013-1409-8}}.
+\newline\urlprefix\url{http://link.springer.com/10.1007/s00521-013-1409-8}
+
+\bibitem{cabrera_data_2013}
+D.~F.~M. Cabrera, H.~Zareipour,
+  \href{http://dx.doi.org/10.1016/j.enbuild.2013.02.049}{Data association
+  mining for identifying lighting energy waste patterns in educational
+  institutes}, Energy and Buildings 62 (2013) 210--216.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2013.02.049}
+  {\path{doi:10.1016/j.enbuild.2013.02.049}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.enbuild.2013.02.049}
+
+\bibitem{nikolaou_application_2012}
+T.~G. Nikolaou, D.~S. Kolokotsa, G.~S. Stavrakakis, I.~D. Skias,
+  \href{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6387350}{On
+  the {Application} of {Clustering} {Techniques} for {Office} {Buildings}'
+  {Energy} and {Thermal} {Comfort} {Classification}}, IEEE Transactions on
+  Smart Grid 3~(4) (2012) 2196--2210.
+\newblock \href {http://dx.doi.org/10.1109/TSG.2012.2215059}
+  {\path{doi:10.1109/TSG.2012.2215059}}.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6387350}
+
+\bibitem{petcharat_assessment_2012}
+S.~Petcharat, S.~Chungpaibulpatana, P.~Rakkwamsuk,
+  \href{http://dx.doi.org/10.1016/j.enbuild.2012.06.006}{Assessment of
+  potential energy saving using cluster analysis: {A} case study of lighting
+  systems in buildings}, Energy and Buildings 52 (2012) 145--152.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2012.06.006}
+  {\path{doi:10.1016/j.enbuild.2012.06.006}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.enbuild.2012.06.006}
+
+\bibitem{an_estimation_2012}
+L.~An, R.~Horesh, Y.~T. Chae, Y.~M. Lee,
+  \href{http://www.ibpsa.us/simbuild2012/Papers/SB12_TS05a_4_An.pdf}{Estimation
+  of {Thermal} {Parameters} of {Buildings} {Through} {Inverse} {Modeling} and
+  {Clustering} for a {Portfolio} of {Buildings}}, in: Proceedings of the
+  {Fifth} {National} {Conference} of {IBPSA}-{USA} ({SimBuild} 2012), Madison,
+  WI, USA, 2012.
+\newline\urlprefix\url{http://www.ibpsa.us/simbuild2012/Papers/SB12_TS05a_4_An.pdf}
+
+\bibitem{bellala_towards_2011}
+G.~Bellala, M.~Marwah, M.~Arlitt, G.~Lyon, C.~E. Bash,
+  \href{http://dl.acm.org/citation.cfm?doid=2434020.2434043}{Towards an
+  understanding of campus-scale power consumption}, in: Proceedings of the
+  {Third} {ACM} {Workshop} on {Embedded} {Sensing} {Systems} for
+  {Energy}-{Efficiency} in {Buildings} ({BuildSys} 2011), ACM Request
+  Permissions, Seattle, WA, USA, 2011, p.~73.
+\newblock \href {http://dx.doi.org/10.1145/2434020.2434043}
+  {\path{doi:10.1145/2434020.2434043}}.
+\newline\urlprefix\url{http://dl.acm.org/citation.cfm?doid=2434020.2434043}
+
+\bibitem{lehrer_visualizing_2011}
+D.~Lehrer, J.~Vasudev,
+  \href{https://escholarship.org/uc/item/6vp5m5m3.pdf}{Visualizing {Energy}
+  {Information} in {Commercial} {Buildings}: {A} {Study} of {Tools}, {Expert}
+  {Users}, and {Building} {Occupants}}, Tech. rep., Center for the Built
+  Environment - UC Berkeley (Nov. 2011).
+\newline\urlprefix\url{https://escholarship.org/uc/item/6vp5m5m3.pdf}
+
+\bibitem{granderson_building_2010}
+J.~Granderson, M.~A. Piette, G.~Ghatikar,
+  \href{http://link.springer.com/article/10.1007/s12053-010-9084-4}{Building
+  energy information systems: user case studies}, Energy Efficiency 4~(1)
+  (2010) 17--30.
+\newblock \href {http://dx.doi.org/10.1007/s12053-010-9084-4}
+  {\path{doi:10.1007/s12053-010-9084-4}}.
+\newline\urlprefix\url{http://link.springer.com/article/10.1007/s12053-010-9084-4}
+
+\bibitem{gaitani_using_2010}
+N.~Gaitani, C.~Lehmann, M.~Santamouris, G.~Mihalakakou, P.~Patargias,
+  \href{http://www.sciencedirect.com/science/article/pii/S0306261909005303}{Using
+  principal component and cluster analysis in the heating evaluation of the
+  school building sector}, Applied Energy 87~(6) (2010) 2079--2086.
+\newblock \href {http://dx.doi.org/10.1016/j.apenergy.2009.12.007}
+  {\path{doi:10.1016/j.apenergy.2009.12.007}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0306261909005303}
+
+\bibitem{sedano_improving_2009}
+J.~Sedano, J.~R. Villar, L.~Curiel, E.~De~La~Cal, E.~Corchado,
+  \href{http://link.springer.com/chapter/10.1007/978-3-642-04394-9_95}{Improving
+  energy efficiency in buildings using machine intelligence}, in: Intelligent
+  {Data} {Engineering} and {Automated} {Learning}-{IDEAL} 2009, Springer, 2009,
+  pp. 773--782.
+\newline\urlprefix\url{http://link.springer.com/chapter/10.1007/978-3-642-04394-9_95}
+
+\bibitem{lehrer_research_2009}
+D.~Lehrer, Research {Scoping} {Report}: {Visualizing} {Information} in
+  {Commercial} {Buildings}, Tech. rep., Center for the Built Environment - UC
+  Berkeley (Sep. 2009).
+
+\bibitem{agarwal_energy_2009}
+Y.~Agarwal, T.~Weng, R.~K. Gupta,
+  \href{http://portal.acm.org/citation.cfm?doid=1810279.1810292}{The energy
+  dashboard: improving the visibility of energy consumption at a campus-wide
+  scale}, in: Proceedings of the {First} {ACM} {Workshop} on {Embedded}
+  {Sensing} {Systems} for {Energy}-{Efficiency} in {Buildings} ({BuildSys}
+  2009), ACM Press, Berkeley, CA, USA, 2009, p.~55.
+\newblock \href {http://dx.doi.org/10.1145/1810279.1810292}
+  {\path{doi:10.1145/1810279.1810292}}.
+\newline\urlprefix\url{http://portal.acm.org/citation.cfm?doid=1810279.1810292}
+
+\bibitem{lam_principal_2008}
+J.~C. Lam, K.~K.~W. Wan, K.~L. Cheung, L.~Yang,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0378778807001764}{Principal
+  component analysis of electricity use in office buildings}, Energy and
+  Buildings 40~(5) (2008) 828--836.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2007.06.001}
+  {\path{doi:10.1016/j.enbuild.2007.06.001}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0378778807001764}
+
+\bibitem{santamouris_using_2007}
+M.~Santamouris, G.~Mihalakakou, P.~Patargias, N.~Gaitani, K.~Sfakianaki,
+  M.~Papaglastra, C.~Pavlou, P.~Doukas, E.~Primikiri, V.~Geros, M.~N.
+  Assimakopoulos, R.~Mitoula, S.~Zerefos,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0378778806001502}{Using
+  intelligent clustering techniques to classify the energy performance of
+  school buildings}, Energy and Buildings 39~(1) (2007) 45--51.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2006.04.018}
+  {\path{doi:10.1016/j.enbuild.2006.04.018}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0378778806001502}
+
+\bibitem{seem_pattern_2005}
+J.~E. Seem,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0378778804001434}{Pattern
+  recognition algorithm for determining days of the week with similar energy
+  consumption profiles}, Energy and Buildings 37~(2) (2005) 127--139.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2004.04.004}
+  {\path{doi:10.1016/j.enbuild.2004.04.004}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0378778804001434}
+
+\bibitem{ahn_correlation_2016}
+K.-U. Ahn, C.-S. Park,
+  \href{http://www.sciencedirect.com/science/article/pii/S037877881630010X}{Correlation
+  between occupants and energy consumption}, Energy and Buildings 116 (2016)
+  420--433.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2016.01.010}
+  {\path{doi:10.1016/j.enbuild.2016.01.010}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S037877881630010X}
+
+\bibitem{mansur_learning_2015}
+V.~Mansur, P.~Carreira, A.~Arsenio,
+  \href{http://link.springer.com/10.1007/978-3-319-19656-5_2}{A {Learning}
+  {Approach} for {Energy} {Efficiency} {Optimization} by {Occupancy}
+  {Detection}}, in: Internet of {Things}. {User}-{Centric} {IoT}, Vol. 150,
+  Springer International Publishing, Cham, 2015, pp. 9--15.
+\newline\urlprefix\url{http://link.springer.com/10.1007/978-3-319-19656-5_2}
+
+\bibitem{adamopoulou_context-aware_2015}
+A.~A. Adamopoulou, A.~M. Tryferidis, D.~K. Tzovaras,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778815303212}{A
+  context-aware method for building occupancy prediction}, Energy and
+  Buildings\href {http://dx.doi.org/10.1016/j.enbuild.2015.10.003}
+  {\path{doi:10.1016/j.enbuild.2015.10.003}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778815303212}
+
+\bibitem{fan_temporal_2015}
+C.~Fan, F.~Xiao, H.~Madsen, D.~Wang,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778815302991}{Temporal
+  {Knowledge} {Discovery} in {Big} {BAS} {Data} for {Building} {Energy}
+  {Management}}, Energy and Buildings\href
+  {http://dx.doi.org/10.1016/j.enbuild.2015.09.060}
+  {\path{doi:10.1016/j.enbuild.2015.09.060}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778815302991}
+
+\bibitem{gayeski_data_2015}
+N.~Gayeski, S.~Kleindienst, J.~Gagne, B.~Werntz, R.~Cruz, S.~Samouhos, Data and
+  {Interfaces} for {Advanced} {Building} {Operations} and {Maintenance} - {RP}
+  1633 {Final} {Report}, Tech. rep., ASHRAE (Jun. 2015).
+
+\bibitem{doca_occupancy_2015}
+S.~D’Oca, T.~Hong,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778814010329}{Occupancy
+  schedules learning process through a data mining framework}, Energy and
+  Buildings 88 (2015) 395--408.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2014.11.065}
+  {\path{doi:10.1016/j.enbuild.2014.11.065}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778814010329}
+
+\bibitem{habib_finding_2015}
+U.~Habib, G.~Zucker, Finding the {Different} {Patterns} in {Buildings} {Data}
+  {Using} {Bag} of {Words} {Representation} with {Clustering}, in: 2015 13th
+  {International} {Conference} on {Frontiers} of {Information} {Technology}
+  ({FIT}), 2015, pp. 303--308.
+\newblock \href {http://dx.doi.org/10.1109/FIT.2015.60}
+  {\path{doi:10.1109/FIT.2015.60}}.
+
+\bibitem{xiao_data_2014}
+F.~Xiao, C.~Fan, \href{http://dx.doi.org/10.1016/j.enbuild.2014.02.005}{Data
+  mining in building automation system for improving building operational
+  performance}, Energy and Buildings 75 (2014) 109--118.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2014.02.005}
+  {\path{doi:10.1016/j.enbuild.2014.02.005}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.enbuild.2014.02.005}
+
+\bibitem{domahidi_learning_2014}
+A.~Domahidi, F.~Ullmann, M.~Morari, C.~N. Jones,
+  \href{http://www.sciencedirect.com/science/article/pii/S0959152414000304}{Learning
+  decision rules for energy efficient building control}, Journal of Process
+  Control 24~(6) (2014) 763--772.
+\newblock \href {http://dx.doi.org/10.1016/j.jprocont.2014.01.006}
+  {\path{doi:10.1016/j.jprocont.2014.01.006}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0959152414000304}
+
+\bibitem{lange_discovering_2013}
+B.~Lange, N.~Rodriguez, W.~Puech, X.~Vasques,
+  \href{http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.2000273}{Discovering
+  unexpected information using a building energy visualization tool}, in: A.~M.
+  Baskurt, R.~Sitnik (Eds.), Proceedings of the {IS}\&{T}/{SPIE} 2013
+  {Conference} on {Electronic} {Imaging}, Vol. 8650, SPIE, San Francisco, CA,
+  USA, 2013, p. 86500Q.
+\newblock \href {http://dx.doi.org/10.1117/12.2000273}
+  {\path{doi:10.1117/12.2000273}}.
+\newline\urlprefix\url{http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.2000273}
+
+\bibitem{bogen_evaluating_2013}
+A.~C. Bogen, M.~Rashid, E.~W. East, J.~Ross,
+  \href{http://www.itcon.org/2013/6}{Evaluating a data clustering approach for
+  life-cycle facility control}, Journal of Information Technology in
+  Construction Vol. 18 (2013) 99--118.
+\newline\urlprefix\url{http://www.itcon.org/2013/6}
+
+\bibitem{yu_extracting_2013}
+Z.~J. Yu, B.~C.~M. Fung, F.~Haghighat,
+  \href{http://link.springer.com/10.1007/s12273-013-0117-8}{Extracting
+  knowledge from building-related data — {A} data mining framework}, Building
+  Simulation 6~(2) (2013) 207--222.
+\newblock \href {http://dx.doi.org/10.1007/s12273-013-0117-8}
+  {\path{doi:10.1007/s12273-013-0117-8}}.
+\newline\urlprefix\url{http://link.springer.com/10.1007/s12273-013-0117-8}
+
+\bibitem{may-ostendorp_extraction_2013}
+P.~T. May-Ostendorp, G.~P. Henze, B.~Rajagopalan, C.~D. Corbin,
+  \href{http://www.tandfonline.com/doi/abs/10.1080/19401493.2012.665481}{Extraction
+  of supervisory building control rules from model predictive control of
+  windows in a mixed mode building}, Journal of Building Performance Simulation
+  6~(3) (2013) 199--219.
+\newblock \href {http://dx.doi.org/10.1080/19401493.2012.665481}
+  {\path{doi:10.1080/19401493.2012.665481}}.
+\newline\urlprefix\url{http://www.tandfonline.com/doi/abs/10.1080/19401493.2012.665481}
+
+\bibitem{fan_prediction_2013}
+C.~Fan, F.~Xiao, W.~Shengwei, Prediction of {Chiller} {Power} {Consumption}
+  {Using} {Time} {Series} {Analysis} and {Artificial} {Neural} {Networks}, in:
+  Proceedings of the 8th {International} {Conference} on {Indoor} {Air}
+  {Quality}, {Ventilation} and {Energy} {Conservation} in {Buildings} ({CLIMA}
+  2013), Prague, Czech Republic, 2013.
+
+\bibitem{hong_towards_2013}
+D.~Hong, J.~Ortiz, K.~Whitehouse, D.~Culler,
+  \href{http://www.cs.berkeley.edu/~jortiz/papers/buildsys13.pdf}{Towards
+  {Automatic} {Spatial} {Verification} of {Sensor} {Placement} in {Buildings}},
+  in: Proceedings of the 5th {ACM} {Workshop} on {Embedded} {Systems} {For}
+  {Energy}-{Efficient} {Buildings} ({BuildSys} 2013), Roma, Italy, 2013.
+\newline\urlprefix\url{http://www.cs.berkeley.edu/~jortiz/papers/buildsys13.pdf}
+
+\bibitem{lange_energy_2012}
+B.~Lange, N.~Rodriguez, W.~Puech, Energy {Consumption} {Improvement} {Through}
+  a {Visualization} {Software}, in: Energy {Efficiency} - {A} {Bridge} to {Low}
+  {Carbon} {Economy}, Intech, 2012, pp. 161--184.
+
+\bibitem{thanayankizil_softgreen:_2012}
+L.~V. Thanayankizil, S.~K. Ghai, D.~Chakraborty, D.~P. Seetharam,
+  \href{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6151374}{Softgreen:
+  {Towards} energy management of green office buildings with soft sensors}, in:
+  Proceedings of the {Fourth} {International} {Conference} on {Communication}
+  {Systems} and {Networks} ({COMSNETS} 2012), IEEE, Bangalore, India, 2012, pp.
+  1--6.
+\newblock \href {http://dx.doi.org/10.1109/COMSNETS.2012.6151374}
+  {\path{doi:10.1109/COMSNETS.2012.6151374}}.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6151374}
+
+\bibitem{may-ostendorp_model-predictive_2011}
+P.~May-Ostendorp, G.~P. Henze, C.~D. Corbin, B.~Rajagopalan, C.~Felsmann,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0360132310002477}{Model-predictive
+  control of mixed-mode buildings with rule extraction}, Building and
+  Environment 46~(2) (2011) 428--437.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2010.08.004}
+  {\path{doi:10.1016/j.buildenv.2010.08.004}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0360132310002477}
+
+\bibitem{duarte_prioritizing_2011}
+C.~Duarte, B.~Acker, R.~Grosshans, M.~Manic, K.~Van Den~Wymelenberg, C.~Rieger,
+  \href{http://mhrg.if.uidaho.edu/papers/2011/WEPC11_DuarteAckerKevin_EMSDataVisualisation.pdf}{Prioritizing
+  and {Visualizing} {Energy} {Management} and {Control} {System} {Data} to
+  {Provide} {Actionable} {Information} {For} {Building} {Operators}}, in:
+  Proceedings from 2011 {Western} {Energy} {Policy} {Research} {Conference},
+  Boise, Idaho, USA, 2011.
+\newline\urlprefix\url{http://mhrg.if.uidaho.edu/papers/2011/WEPC11_DuarteAckerKevin_EMSDataVisualisation.pdf}
+
+\bibitem{augello_sensor_2011}
+A.~Augello, M.~Ortolani, G.~L. Re, S.~Gaglio,
+  \href{http://link.springer.com/chapter/10.1007/978-3-642-21384-7_10}{Sensor
+  mining for user behavior profiling in intelligent environments}, Advances in
+  Distributed Agent-Based Retrieval Tools (2011) 143--158.
+\newline\urlprefix\url{http://link.springer.com/chapter/10.1007/978-3-642-21384-7_10}
+
+\bibitem{dong_building_2011}
+B.~Dong, K.~P. Lam,
+  \href{http://www.tandfonline.com/doi/abs/10.1080/19401493.2011.577810}{Building
+  energy and comfort management through occupant behaviour pattern detection
+  based on a large-scale environmental sensor network}, Journal of Building
+  Performance Simulation 4~(4) (2011) 359--369.
+\newblock \href {http://dx.doi.org/10.1080/19401493.2011.577810}
+  {\path{doi:10.1080/19401493.2011.577810}}.
+\newline\urlprefix\url{http://www.tandfonline.com/doi/abs/10.1080/19401493.2011.577810}
+
+\bibitem{hao_visualizing_2011}
+M.~Hao, M.~Marwah, H.~Janetzko, R.~Sharma, D.~A. Keim, U.~Dayal, D.~Patnaik,
+  N.~Ramakrishnan, \href{http://dx.doi.org/10.1117/12.872169}{Visualizing
+  frequent patterns in large multivariate time series}, in: Proceedings of
+  {SPIE} {Conference} on {Visualization} and {Data} {Analysis} 2011, Vol. 7868,
+  SPIE, San Francisco, CA, USA, 2011, pp. 78680J--78680J--10.
+\newblock \href {http://dx.doi.org/10.1117/12.872169}
+  {\path{doi:10.1117/12.872169}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1117/12.872169}
+
+\bibitem{patnaik_data_2010}
+D.~Patnaik, M.~Marwah, R.~K. Sharma, N.~Ramakrishnan,
+  \href{http://www.springerlink.com/index/10.1007/978-3-642-13062-5_13}{Data
+  {Mining} for {Modeling} {Chiller} {Systems} in {Data} {Centers}}, in:
+  Advances in {Intelligent} {Data} {Analysis} {IX}, Vol. 6065, Springer Berlin
+  Heidelberg, Berlin, Heidelberg, 2010, pp. 125--136.
+\newline\urlprefix\url{http://www.springerlink.com/index/10.1007/978-3-642-13062-5_13}
+
+\bibitem{patnaik_sustainable_2009}
+D.~Patnaik, M.~Marwah, R.~Sharma, N.~Ramakrishnan,
+  \href{http://doi.acm.org/10.1145/1557019.1557159}{Sustainable {Operation} and
+  {Management} of {Data} {Center} {Chillers} {Using} {Temporal} {Data}
+  {Mining}}, in: Proceedings of the 15th {ACM} {SIGKDD} {International}
+  {Conference} on {Knowledge} {Discovery} and {Data} {Mining} ({KDD} 2009),
+  {KDD} '09, ACM, New York, NY, USA, 2009, pp. 1305--1314.
+\newblock \href {http://dx.doi.org/10.1145/1557019.1557159}
+  {\path{doi:10.1145/1557019.1557159}}.
+\newline\urlprefix\url{http://doi.acm.org/10.1145/1557019.1557159}
+
+\bibitem{kusiak_clustering-based_2008}
+A.~Kusiak, Z.~Song,
+  \href{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=4456516}{Clustering-{Based}
+  {Performance} {Optimization} of the {Boiler} {Turbine} {System}}, IEEE
+  Transactions on Energy Conversion 23~(2) (2008) 651--658.
+\newblock \href {http://dx.doi.org/10.1109/TEC.2007.914183}
+  {\path{doi:10.1109/TEC.2007.914183}}.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=4456516}
+
+\bibitem{fan_framework_2015}
+C.~Fan, F.~Xiao, C.~Yan,
+  \href{http://www.sciencedirect.com/science/article/pii/S0926580514002507}{A
+  framework for knowledge discovery in massive building automation data and its
+  application in building diagnostics}, Automation in Construction 50 (2015)
+  81--90.
+\newblock \href {http://dx.doi.org/10.1016/j.autcon.2014.12.006}
+  {\path{doi:10.1016/j.autcon.2014.12.006}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0926580514002507}
+
+\bibitem{capozzoli_fault_2015}
+A.~Capozzoli, F.~Lauro, I.~Khan,
+  \href{http://www.sciencedirect.com/science/article/pii/S0957417415000251}{Fault
+  detection analysis using data mining techniques for a cluster of smart office
+  buildings}, Expert Systems with Applications 42~(9) (2015) 4324--4338.
+\newblock \href {http://dx.doi.org/10.1016/j.eswa.2015.01.010}
+  {\path{doi:10.1016/j.eswa.2015.01.010}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0957417415000251}
+
+\bibitem{sun_efficient_2015}
+Y.~Sun, T.-Y. Wu, G.~Zhao, M.~Guizani, Efficient {Rule} {Engine} for {Smart}
+  {Building} {Systems}, IEEE Transactions on Computers 64~(6) (2015)
+  1658--1669.
+\newblock \href {http://dx.doi.org/10.1109/TC.2014.2345385}
+  {\path{doi:10.1109/TC.2014.2345385}}.
+
+\bibitem{li_model-based_2014}
+S.~Li, J.~Wen, \href{http://dx.doi.org/10.1016/j.enbuild.2013.08.044}{A
+  model-based fault detection and diagnostic methodology based on {PCA} method
+  and wavelet transform}, Energy and Buildings 68 (2014) 63--71.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2013.08.044}
+  {\path{doi:10.1016/j.enbuild.2013.08.044}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.enbuild.2013.08.044}
+
+\bibitem{chen_statistical_2014}
+B.~Chen, M.~Sinn, J.~Ploennigs, A.~Schumann,
+  \href{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6977326}{Statistical
+  {Anomaly} {Detection} in {Mean} and {Variation} of {Energy} {Consumption}},
+  in: Proceedings of the 22nd {International} {Conference} on {Pattern}
+  {Recognition} ({ICPR}), IEEE, Stockholm, Sweden, 2014, pp. 3570--3575.
+\newblock \href {http://dx.doi.org/10.1109/ICPR.2014.614}
+  {\path{doi:10.1109/ICPR.2014.614}}.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/lpdocs/epic03/wrapper.htm?arnumber=6977326}
+
+\bibitem{chou_real-time_2014}
+J.-S. Chou, A.~S. Telaga,
+  \href{http://dx.doi.org/10.1016/j.rser.2014.01.088}{Real-time detection of
+  anomalous power consumption}, Renewable and Sustainable Energy Reviews 33~(C)
+  (2014) 400--411.
+\newblock \href {http://dx.doi.org/10.1016/j.rser.2014.01.088}
+  {\path{doi:10.1016/j.rser.2014.01.088}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.rser.2014.01.088}
+
+\bibitem{wijayasekara_mining_2014}
+D.~Wijayasekara, O.~Linda, M.~Manic, C.~Rieger, Mining {Building} {Energy}
+  {Management} {System} {Data} {Using} {Fuzzy} {Anomaly} {Detection} and
+  {Linguistic} {Descriptions}, IEEE Transactions on Industrial Informatics
+  10~(3) (2014) 1829--1840.
+\newblock \href {http://dx.doi.org/10.1109/TII.2014.2328291}
+  {\path{doi:10.1109/TII.2014.2328291}}.
+
+\bibitem{le_cam_application_2014}
+M.~Le~Cam, R.~Zmeureanu, A.~Daoud,
+  \href{http://www.ibpsa.org/proceedings/eSimPapers/2014/7A.3.pdf}{Application
+  of {Data} {Mining} techniques for energy modeling of {HVAC} sub-systems}, in:
+  Proceedings of {eSim} 2014 - {IBPSA}-{Canada} {Conference}, IBPSA, Ottawa,
+  Canada, 2014.
+\newline\urlprefix\url{http://www.ibpsa.org/proceedings/eSimPapers/2014/7A.3.pdf}
+
+\bibitem{ploennigs_exploiting_2013}
+J.~Ploennigs, B.~Chen, A.~Schumann, N.~Brady,
+  \href{http://dl.acm.org/citation.cfm?id=2528291}{Exploiting {Generalized}
+  {Additive} {Models} for {Diagnosing} {Abnormal} {Energy} {Use} in
+  {Buildings}}, in: Proceedings of the 5th {ACM} {Workshop} {On} {Embedded}
+  {Systems} {For} {Energy}-{Efficient} {Buildings} ({Buildsys} '13), Roma,
+  Italy, 2013.
+\newline\urlprefix\url{http://dl.acm.org/citation.cfm?id=2528291}
+
+\bibitem{janetzko_anomaly_2013}
+H.~Janetzko, F.~Stoffel, S.~Mittelstädt, D.~A. Keim,
+  \href{http://dx.doi.org/10.1016/j.cag.2013.10.006}{Anomaly detection for
+  visual analytics of power consumption data}, Computers \& Graphics 38 (2013)
+  27--37.
+\newblock \href {http://dx.doi.org/10.1016/j.cag.2013.10.006}
+  {\path{doi:10.1016/j.cag.2013.10.006}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.cag.2013.10.006}
+
+\bibitem{fontugne_mining_2013}
+R.~Fontugne, N.~Tremblay, P.~Borgnat, P.~Flandrin, H.~Esaki,
+  \href{http://hiroshi1.hongo.wide.ad.jp/hiroshi/papers/2013/romain_ICASSP2013.pdf}{Mining
+  {Anomalous} {Electricity} {Consumption} {Using} {Ensemble} {Empirical} {Mode}
+  {Decomposition}}, in: Acoustics, {Speech} and {Signal} {Processing}
+  ({ICASSP}), 2013 {IEEE} {International} {Conference} on, Vancouver, BC,
+  Canada, 2013, pp. 5238--5242.
+\newline\urlprefix\url{http://hiroshi1.hongo.wide.ad.jp/hiroshi/papers/2013/romain_ICASSP2013.pdf}
+
+\bibitem{fontugne_strip_2013}
+R.~Fontugne, J.~Ortiz, N.~Tremblay, P.~Borgnat, P.~Flandrin, K.~Fukuda,
+  D.~Culler, H.~Esaki, \href{http://dl.acm.org/citation.cfm?id=2461399}{Strip,
+  bind, and search: a method for identifying abnormal energy consumption in
+  buildings}, in: Proceedings of the 12th {ACM}/{IEEE} {Int} {Conference} on
+  {Information} {Processing} in {Sensor} {Network} ({ISPN} 2013), ACM,
+  Philadelphia, PA, USA, 2013, pp. 129--140.
+\newline\urlprefix\url{http://dl.acm.org/citation.cfm?id=2461399}
+
+\bibitem{linda_computational_2012}
+O.~Linda, D.~Wijayasekara, M.~Manic, C.~Rieger,
+  \href{http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6309297&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28p_Title%3A%22Computational+Intelligence+based+Anomaly+Detection+for+Building+Energy+Management+Systems%22%29}{Computational
+  intelligence based anomaly detection for {Building} {Energy} {Management}
+  {Systems}}, in: Proceedings of the 5th {International} {Symposium} on
+  {Resilient} {Control} {Systems} ({ISRCS} 2012), Salt Lake City, UT, USA,
+  2012, pp. 77--82.
+\newblock \href {http://dx.doi.org/10.1109/ISRCS.2012.6309297}
+  {\path{doi:10.1109/ISRCS.2012.6309297}}.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6309297&matchBoolean%3Dtrue%26rowsPerPage%3D30%26searchField%3DSearch_All%26queryText%3D%28p_Title%3A%22Computational+Intelligence+based+Anomaly+Detection+for+Building+Energy+Management+Systems%22%29}
+
+\bibitem{zhu_fault_2012}
+Y.~Zhu, X.~Jin, Z.~Du,
+  \href{http://dx.doi.org/10.1016/j.enbuild.2011.09.043}{Fault diagnosis for
+  sensors in air handling unit based on neural network pre-processed by wavelet
+  and fractal}, Energy and Buildings 44 (2012) 7--16.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2011.09.043}
+  {\path{doi:10.1016/j.enbuild.2011.09.043}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.enbuild.2011.09.043}
+
+\bibitem{wrinch_anomaly_2012}
+M.~Wrinch, T.~H. El-Fouly, S.~Wong,
+  \href{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6344790}{Anomaly
+  detection of building systems using energy demand frequency domain analysis},
+  in: Power and {Energy} {Society} {General} {Meeting}, 2012 {IEEE}, IEEE, San
+  Diego, CA, USA, 2012, pp. 1--6.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6344790}
+
+\bibitem{yu_novel_2012}
+Z.~J. Yu, F.~Haghighat, B.~C.~M. Fung, L.~Zhou,
+  \href{http://dx.doi.org/10.1016/j.enbuild.2011.12.018}{A novel methodology
+  for knowledge discovery through mining associations between building
+  operational data}, Energy and Buildings 47 (2012) 430--440.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2011.12.018}
+  {\path{doi:10.1016/j.enbuild.2011.12.018}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.enbuild.2011.12.018}
+
+\bibitem{liu_method_2010}
+D.~Liu, Q.~Chen, K.~Mori, Y.~Kida,
+  \href{http://www.jofcis.com/publishedpapers/2010_6_14_4887_4895.pdf}{A method
+  for detecting abnormal electricity energy consumption in buildings}, Journal
+  Of Computational Information Systems 14 (2010) 4887--4895.
+\newline\urlprefix\url{http://www.jofcis.com/publishedpapers/2010_6_14_4887_4895.pdf}
+
+\bibitem{jacob_black-box_2010}
+D.~Jacob, S.~Dietz, S.~Komhard, C.~Neumann, S.~Herkel,
+  \href{http://www.tandfonline.com/doi/abs/10.1080/19401490903414454}{Black-box
+  models for fault detection and performance monitoring of buildings}, Journal
+  of Building Performance Simulation 3~(1) (2010) 53--62.
+\newblock \href {http://dx.doi.org/10.1080/19401490903414454}
+  {\path{doi:10.1080/19401490903414454}}.
+\newline\urlprefix\url{http://www.tandfonline.com/doi/abs/10.1080/19401490903414454}
+
+\bibitem{wang_system-level_2010}
+S.~Wang, Q.~Zhou, F.~Xiao,
+  \href{http://dx.doi.org/10.1016/j.enbuild.2009.10.017}{A system-level fault
+  detection and diagnosis strategy for {HVAC} systems involving sensor faults},
+  Energy and Buildings 42~(4) (2010) 477--490.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2009.10.017}
+  {\path{doi:10.1016/j.enbuild.2009.10.017}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.enbuild.2009.10.017}
+
+\bibitem{forlines_wakame:_2010}
+C.~Forlines, K.~Wittenburg,
+  \href{http://doi.acm.org/10.1145/1842993.1843000}{Wakame: {Sense} {Making} of
+  {Multi}-dimensional {Spatial}-temporal {Data}}, in: Proceedings of the
+  {International} {Conference} on {Advanced} {Visual} {Interfaces} ({AVI}
+  2010), {AVI} '10, ACM, Roma, Italy, 2010, pp. 33--40.
+\newblock \href {http://dx.doi.org/10.1145/1842993.1843000}
+  {\path{doi:10.1145/1842993.1843000}}.
+\newline\urlprefix\url{http://doi.acm.org/10.1145/1842993.1843000}
+
+\bibitem{yoshida_identification_2008}
+K.~Yoshida, M.~Inui, T.~Yairi, K.~Machida, M.~Shioya, Y.~Masukawa,
+  \href{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4733934}{Identification
+  of {Causal} {Variables} for {Building} {Energy} {Fault} {Detection} by
+  {Semi}-supervised {LDA} and {Decision} {Boundary} {Analysis}}, in: Data
+  {Mining} {Workshops}, 2008. {ICDMW} '08. {IEEE} {International} {Conference}
+  on, Pisa, Italy, 2008, pp. 164--173.
+\newblock \href {http://dx.doi.org/10.1109/ICDM.W.o2r0k0s8h.o4p4s.2008.46}
+  {\path{doi:10.1109/ICDM.W.o2r0k0s8h.o4p4s.2008.46}}.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4733934}
+
+\bibitem{seem_using_2006}
+J.~E. Seem,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0378778806001514}{Using
+  intelligent data analysis to detect abnormal energy consumption in
+  buildings}, Energy and Buildings 39~(1) (2006) 52--58.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2006.03.033}
+  {\path{doi:10.1016/j.enbuild.2006.03.033}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0378778806001514}
+
+\bibitem{wang_sensor-fault_2005}
+S.~Wang, J.~Cui,
+  \href{http://www.sciencedirect.com/science/article/pii/S0306261904001953}{Sensor-fault
+  detection, diagnosis and estimation for centrifugal chiller systems using
+  principal-component analysis method}, Applied Energy.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0306261904001953}
+
+\bibitem{_journals_2014}
+\href{http://www.nature.com/doifinder/10.1038/515007a}{Journals unite for
+  reproducibility}, Nature 515~(7525) (2014) 7--7.
+\newblock \href {http://dx.doi.org/10.1038/515007a}
+  {\path{doi:10.1038/515007a}}.
+\newline\urlprefix\url{http://www.nature.com/doifinder/10.1038/515007a}
+
+\bibitem{_code_2014}
+\href{http://www.nature.com/doifinder/10.1038/514536a}{Code share}, Nature
+  514~(7524) (2014) 536--536.
+\newblock \href {http://dx.doi.org/10.1038/514536a}
+  {\path{doi:10.1038/514536a}}.
+\newline\urlprefix\url{http://www.nature.com/doifinder/10.1038/514536a}
+
+\bibitem{keogh_need_2003}
+E.~Keogh, S.~Kasetty,
+  \href{http://link.springer.com/article/10.1023/A:1024988512476}{On the need
+  for time series data mining benchmarks: {A} survey and empirical
+  demonstration}, Data Mining and Knowledge Discovery 7~(4) (2003) 349--371.
+\newline\urlprefix\url{http://link.springer.com/article/10.1023/A:1024988512476}
+
+\bibitem{kreider_predicting_1994}
+J.~F. Kreider, J.~S. Haberl,
+  \href{http://www.osti.gov/scitech/biblio/33315}{Predicting hourly building
+  energy use: {The} great energy predictor shootout–{Overview} and discussion
+  of results}, Tech. rep., American Society of Heating, Refrigerating and
+  Air-Conditioning Engineers, Inc., Atlanta, GA (United States) (1994).
+\newline\urlprefix\url{http://www.osti.gov/scitech/biblio/33315}
+
+\end{thebibliography}

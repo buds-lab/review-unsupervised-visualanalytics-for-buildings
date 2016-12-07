@@ -1,0 +1,11 @@
+kingdom,philum,class,order,family,genus,species,A
+No blast hit,,,,,,,2496.0
+k__Archaea,p__Euryarchaeota,c__Thermoplasmata,o__E2,f__[Methanomassiliicoccaceae],g__vadinCA11,s__,6.0
+k__Bacteria,p__,c__,o__,f__,g__,s__,5.0
+k__Bacteria,p__Actinobacteria,c__Acidimicrobiia,o__Acidimicrobiales,f__,g__,s__,0.0
+k__Bacteria,p__Actinobacteria,c__Actinobacteria,o__Actinomycetales,f__Corynebacteriaceae,g__Corynebacterium,s__stationis,2.0
+k__Bacteria,p__Actinobacteria,c__Actinobacteria,o__Actinomycetales,f__Micrococcaceae,g__Arthrobacter,s__,8.0
+k__Bacteria,p__Actinobacteria,c__Actinobacteria,o__Bifidobacteriales,f__Bifidobacteriaceae,g__Bifidobacterium,s__,506.0
+k__Bacteria,p__Actinobacteria,c__Actinobacteria,o__Bifidobacteriales,f__Bifidobacteriaceae,g__Bifidobacterium,s__animalis,48.0
+k__Bacteria,p__Actinobacteria,c__Coriobacteriia,o__Coriobacteriales,f__Coriobacteriaceae,g__,s__,734.0
+k__Bacteria,p__Actinobacteria,c__Coriobacteriia,o__Coriobacteriales,f__Coriobacteriaceae,g__Collinsella,s__aerofaciens,3.0

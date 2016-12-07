@@ -1,0 +1,102 @@
+%\documentclass[ngerman]{ethbrief3}
+\documentclass[english]{ethbrief3}
+%\documentclass[ngerman,DepLogo]{ethbrief3}
+%\documentclass[english,DepLogo]{ethbrief3}
+%\documentclass[ngerman,ETHUZH]{ethbrief3}
+%\documentclass[english,ETHUZH]{ethbrief3}
+
+\usepackage[utf8]{inputenc}
+\usepackage[pdfborder={0 0 0},pdftex]{hyperref}
+\usepackage{graphicx}
+
+% automatic language support (Niklas Beisert)
+\EthLang{
+  \RequirePackage[document]{ragged2e}% Corrects hyphenation in german
+  \RequirePackage{ngerman}
+  \PassOptionsToPackage{ngerman}{babel}
+}{
+  \PassOptionsToPackage{english}{babel}
+}
+
+% Declaration of the personal data
+    \EthFirstUnitName{\EthLang{1. Zeile Organisationseinheit}{1st line Organisation unit}}
+    \EthSecondUnitName{\EthLang{2. Zeile Organisationseinheit}{2nd line Organisation unit}}
+    \EthName{ETH \Zurich}
+    \EthPersName{\EthLang{Herr Max Mustermann}{Mr. John Doe}}
+    \EthPersPosition{\EthLang{Funktion}{Position}}
+     \EthOffice{\EthLang{Geb\"aude Raum}{Building Room}}
+     \EthStreet{\EthLang{Strasse Hausnummer}{Street House Number}}
+     \EthTown{80xx \Zurich}
+%     \EthAddress{\EthLang{Freie\\Adresseingabe}{freestyle\\address}}
+% --- country optional, typical if sendig outside CH
+%     \EthLang{}{\EthCountry{\Switzerland}} % only the country in english version
+     \EthCountry{\Switzerland} % in german and english version
+     \EthPhone {+41 44 632 aa aa}
+%     \EthPhone {+41 44 632 bb bb} % secondary phone, fax, \ldots
+     \EthFax   {+41 44 632 aa ab}
+%     \EthMobile{+41 7 59 aa bbb}
+\EthLang{
+     \EthEmail{max.mustemannr@ethz.ch}
+     \EthWeb{www.max.muster.ethz.ch}
+}{
+     \EthEmail{john.doe@ethz.ch}
+     \EthWeb{www.john.doe.ethz.ch}
+}
+%     \EthPersInfo{\EthLang{Zus\"atzliche\\Daten}{additional\\data}}
+
+% end of declaration of the personal data
+
+%***** Einbinden einer Unterschift-Grafik
+\signaturefile[0.5cm]{\includegraphics[height=1cm]{mysig}} % include a signature file
+\signature{Max Mustermann}
+
+%\makelabels         % to get the address for an envelope
+% \date{May 15, 2013} % be free to define the date manually
+%***** multilinguale Ortsnamen, \Zurich definiert als Standard
+% \location{\Zurich}  % be free to define the location manually
+
+%***** Umbenannt
+\subject[Hier steht die Betreffzeile]{Hier steht die Betreffzeile}
+
+%***** Umgehung von \begin{letter} moeglich, Angabe der Zieladresse
+\recipient{Adresse}
+
+\begin{document}
+
+%***** Umgehung von \begin{letter} moeglich
+%  \begin{letter}{Adresse}
+
+    \opening{Sehr geehrte(r) Frau / Herr Nachname,}
+
+    Unt maxim la vel maion ne vid quas eniet rae. Editatatecto tem secae ea ide pelia volorem vere volores cisam quam, nientiscimus audionsed utem elignihit ut voloreium faccaerro esto omnitio nsequaessusa vole\-sti\-berro omnimet eatias volupta solupta ese plis doluptatur resciti orepudaere aut et vit lit fuga. Et autaeceatur am as dus aut offictia nullore et, sam el id modit laborib uscilla sam num reptate re, omnihilitem eum voluptaque era coreper sperupis pariti temposam autae ipiende rundian tissim il ea con comniminciis utem que nos magnature, cumquibernam quist, ut maioremquia quiae et fugia nonesto odia in re est, ut molent idem fugitae. Nam dollessum qui aut quod quas es earchillat.
+
+    Modicimus alistiae. Pient hitas alitius cipsae. Ut quo voleni idisquatem des aut ilignate maio te voles nisi quiaecesequi te enihil maxima dit, ipiet quiam nonsequia nonessit et est ad quaeremqui coreiur sequi debitisi as rerescia dolo estiureperit hic to vende vendaectatia commolo reprehe nimodio etur reium commo imus. Nam, qui ipsus, vel inveria ecupit as ab id expel modi aspis di consequi resto quias es et estem int laborerum simus nusaecu pientisque endunti con reribus, ario. Nam ationse et quia si inis etur simpore volorum illaut volorepudi que omnima cus incilli quodionsenis ut quosandit veliciendene sit, consequiscit volore, comnimped et et quae plibus, ut adit, quos doloreptur?
+
+    Um sed quiamenis aut am, odicatur as aut explis rehenderum remporrum, viducip itamus dolo cupic temporest, velit aut exerae officianis pre nusam fuga. Nem apit, nos dolluptia nienimi, sincipsant quatem quunt resti sandelit plata porehendis dolorroreped mos que prestiae nullique re lab ipisimolor moloresti deles et omnis quam, cones seque in cuptas magnimp ossequam, cus mi, nateture doluptae lam, officipsam ea cum quiae. Itatibus doluptatius dit, que vel estrum ditecepe id unt enis ad ut ium ut autaspi dusciunt re volorrum quam quatur a ni a voloribus.
+
+    Quis rest es utam que volestiur, voluptas dendigenis rest, con conem hictam, sam re nulpa consequatur, vel ilique nati vendaec teturem repudi asperumque ernat venis voluptaquunt et lam repe officid maionse ndiatquam quas doloria cum qui autate serchictur, ilit optatiatet eume sam quatquiat.
+
+    Fugiam faccus essi cusam seque eseque pratem que vendant veris quature perissit as as apelessus et a nus et verum reria con cusamus veliquia saes velestem volorenis experruptur rerio odiaturi re, alitias de volupta ectur, quo eaqui aped molupta tibeat as moditatus, to officipsam non et estrumque peri sit, odis des simpossim nusam qui blaudaerum vollab ipsae. Itaectio. Nateceri odia volupta preheniam doluptium volum laborecat maio et autestia experor re, inum experovit, odi quo blam se corum volut dolenihit eatia dolupta soluptati apit aut eum re, quia sedi totatus esedici consed mo est archilit volest, quibusa piendel eatiur as nem voluptatia sinuscil ipitas ersped magnis quiam quatem harum rerrum faccae ideriatibus.
+
+    Beatiis doluptatur, consequas sinciis atem sinimax iminus ernatquam exeraep eratis et que volorepel esto moluptatia cus quam ium ullabor eperest, quam, consequi ut rem labo. Uptia dolum que num et, omnimoditi ima porestioris es quaerio nsequundi dit as et odite porecum hil eaquam volent quo omniendite dolutem. Itat la di delloreped min nobit alitate nis seriberum aut aribus.
+
+    Ebit quost est, occae nem iumquam quidell accuptatur, od ut erspis maio eaquam nosseria de latur audamet ipsum net ea esto temoloribus remolorro eressunt et la ipsum ipsam rectus anis et aliquo dolupictio blaborent voluptae eat. Hil iuntota estibea sita cus non nim hilibusa simolo desectio doloreius id magnimi, cor sime verum fugiant asperia dollori onesseq uibusamet quodi alitia des doloreiumquo iundel iusaped itecea sed quae prae ipsunt officidi delibusdae vende nihicimin consed qui ides sim sequaerro quam, tempor mos ma sus nobis videm. Nem consend icaborem cusam quosa que aute int parcil in corecab oremquae velita sequam similloribus enem. Nempore risciat.
+
+   \closing{Mit freundlichen Gr\"ussen}
+
+
+
+    \ps{Postscriptum}
+    \encl{Anhang}
+    \cc{carbon copy}
+%  \end{letter}
+
+%***** Fuer einen Serienbrief  
+
+%\newpage\setcounter{page}{0}
+%\recipient{2. Empf\"anger}
+%\opening{Sehr geehrte Damen und Herren}
+%text
+%\closing{Guten Tag}
+
+\end{document}

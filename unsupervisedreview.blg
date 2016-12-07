@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: unsupervisedreview.aux
+The style file: elsarticle-num.bst
+Database file #1: unsupervisedreview.bib
+Warning--empty journal in james_manyika_unlocking_2015
+Warning--empty journal in the_white_house_fact_2016
+Warning--empty pages in florita_classification_2012
+Warning--empty pages in georgescu_site-level_2014
+Warning--empty pages in an_estimation_2012
+Warning--empty pages in fan_prediction_2013
+Warning--empty pages in hong_towards_2013
+Warning--empty pages in duarte_prioritizing_2011
+Warning--empty pages in le_cam_application_2014
+Warning--empty pages in ploennigs_exploiting_2013
+Warning--empty author in _journals_2014
+Warning--empty author in _code_2014
+You've used 123 entries,
+            2937 wiz_defined-function locations,
+            1514 strings with 42400 characters,
+and the built_in function-call counts, 46337 in all, are:
+= -- 4578
+> -- 1433
+< -- 46
++ -- 558
+- -- 435
+* -- 3871
+:= -- 6055
+add.period$ -- 195
+call.type$ -- 123
+change.case$ -- 125
+chr.to.int$ -- 6
+cite$ -- 135
+duplicate$ -- 1634
+empty$ -- 5230
+format.name$ -- 547
+if$ -- 12030
+int.to.chr$ -- 0
+int.to.str$ -- 123
+missing$ -- 124
+newline$ -- 557
+num.names$ -- 127
+pop$ -- 1025
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2597
+stack$ -- 0
+substring$ -- 2347
+swap$ -- 631
+text.length$ -- 44
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 12
+while$ -- 340
+width$ -- 126
+write$ -- 1282
+(There were 12 warnings)
